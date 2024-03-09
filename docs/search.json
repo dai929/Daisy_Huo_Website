@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Personal Website",
+    "section": "",
+    "text": "My name is Daisy Huo, and I am currently a third-year student at University of Toronto Mississauga, specializing in Applied Statistics.\nCourses that I am taking this year:\n\nECO101H5 F\nECO102H5 S\nLIN205H5 S\nMAT236H5 F\nMAT334H5 F\nMAT344H5 S\nMGT120H5 S\nPHL245H5 S\nSOC109H5 F\nSTA258H5 F\nSTA260H5 F\nSTA302H1 S\n\nTo learn more about me, you may find my resume and bio beside Home."
+  }
+]

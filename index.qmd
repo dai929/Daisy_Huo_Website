@@ -1,0 +1,33 @@
+---
+title: "Welcome to My Personal Website"
+---
+
+My name is Daisy Huo, and I am currently a third-year student at University of Toronto Mississauga, specializing in Applied Statistics.
+
+Courses that I am taking this year:
+
+1.  ECO101H5 F
+
+2.  ECO102H5 S
+
+3.  LIN205H5 S
+
+4.  MAT236H5 F
+
+5.  MAT334H5 F
+
+6.  MAT344H5 S
+
+7.  MGT120H5 S
+
+8.  PHL245H5 S
+
+9.  SOC109H5 F
+
+10. STA258H5 F
+
+11. STA260H5 F
+
+12. STA302H1 S
+
+To learn more about me, you may find my resume and bio beside Home.

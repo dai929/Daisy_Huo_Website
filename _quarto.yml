@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Daisy Huo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Resume"
+        href: Resume - Daisy Huo.pdf
+      - text: "Bio"
+        href: Bio - Daisy Huo.pdf
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+
